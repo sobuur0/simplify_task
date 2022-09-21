@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Link to the apk
+
+https://drive.google.com/file/d/1ItdncAyz3kM5HMaA6D0TK0G8CdmZbQSz/view?usp=sharing
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
